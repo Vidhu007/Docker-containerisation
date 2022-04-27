@@ -17,11 +17,10 @@ const Navbar = () => {
 			
 				<a><div className='flex ml-10 mt-2'>
 					<div>
-						<Image src={logo} height={35} width={35} alt="logo"/>
 					</div>
 					<h1 className='text-4xl ml-2 mb-1'>
 					
-					Macros</h1>
+					React app containerised using Docker</h1>
 					</div>
 					</a>
 				</Link>
@@ -29,7 +28,6 @@ const Navbar = () => {
 				<div className='mt-1'>
 					<Link href={'/about'}>
 						<a>
-						<Image src={`https://avatars.dicebear.com/api/bottts/${getRandomString()}.svg`} height={30} width={30} alt="about"/>
 						</a>
 					</Link>
 				</div>
