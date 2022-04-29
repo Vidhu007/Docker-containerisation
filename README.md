@@ -1,3 +1,12 @@
+## Project 5: React static site containerised using Docker ( Devops)
+
+In this Project, We have made a static React app using ReactJS, NextJS, TailwindCSS, HTML, CSS which we have later containerised using Docker.
+Containerization has become a major trend in software development as an alternative or companion to virtualization. It involves encapsulating or packaging up software code and all its dependencies so that it can run uniformly and consistently on any infrastructure. The technology is quickly maturing, resulting in measurable benefits for developers and operations teams as well as overall software infrastructure.
+
+It is a majour part of Devops. We learned a lot about Devops while developing this app.
+
+DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
